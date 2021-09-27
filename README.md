@@ -1,2 +1,2 @@
 # Alpha-Ecomm
-# Code Dynamos first project. MERN Stack E-commerce app with lots of interesting features.
+# Code Dynamos group first project. This is a MERN Stack E-commerce app with lots of interesting features.
